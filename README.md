@@ -1,6 +1,6 @@
 # Hi, I'm Despotović Stefan
 
-I'm currently learning React and interested in expanding my knowledge base. I have experience with PHP, JavaScript, and SQL. In my free time, I love to fly drones and capture aerial footage. Here is my [portfolio link](https://stefancv.netlify.app/).
+I'm currently learning React and Node.js and interested in expanding my knowledge base. I have experience with PHP, JavaScript, and SQL. In my free time, I love to fly drones and capture aerial footage. Here is my [portfolio link](https://stefancv.netlify.app/).
 
 ![](https://komarev.com/ghpvc/?username=StefanDespotovic)
 
